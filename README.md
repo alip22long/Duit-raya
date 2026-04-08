@@ -107,8 +107,8 @@ button:hover{
 
     <button onclick="showLove()">tekan sini tau</button>
 
-    <img id="photo1" class="photo" src="IMG-20260325-WA0065.jpg" alt="gambar pertama">
-    <img id="photo2" class="photo" src="IMG-20260325-WA0067.jpg" alt="gambar kedua">
+    <img id="photo1" class="photo" src="IMG_20260408_195410.jpg" alt="gambar pertama">
+    <img id="photo2" class="photo" src="IMG_20260408_195410.jpg" alt="gambar kedua">
 
 
 <script>
